@@ -9,7 +9,7 @@ set( CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_HOME_DIRECTORY}/bin )
 
 set( assimp_SOURCE_DIR 3rdparty/assimp)
 
-include_directories(${
+include_directories(
     ${PROJECT_SOURCE_DIR}/src
     ${PROJECT_SOURCE_DIR}/3rdparty/assimp/include
     ${PROJECT_SOURCE_DIR}/3rdparty/benchmark/include

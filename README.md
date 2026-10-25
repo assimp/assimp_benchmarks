@@ -29,7 +29,20 @@ cp -r ..\..\3rdparty\sponza\*
 ## Results
 ### Version 6.0.1
 Processor	AMD Ryzen 7 7700 8-Core Processor, 3801 MHz, 8 Cores, 16 logical processors
-| Model      | Time      | CPU       |
+| Model      | Time [ns] | CPU [ns]  |
 |------------|-----------|-----------|
 | Sponza Obj | 118868 ns | 119629 ns |
-       
+
+### Version 6.0.5
+Processor	AMD Ryzen 7 7700 8-Core Processor, 3801 MHz, 8 Cores, 16 logical processors
+| Model      | Time [ns] | CPU [ns]  |
+|------------|-----------|-----------|
+| Sponza Obj | 118868 ns | 119629 ns |
+
+### Current master
+Processor	AMD Ryzen 7 7700 8-Core Processor, 3801 MHz, 8 Cores, 16 logical processors
+| Model      | Time [ns] | CPU       |
+|------------|-----------|-----------|
+| Sponza Obj | NA ns     | 119629 ns |
+
+
